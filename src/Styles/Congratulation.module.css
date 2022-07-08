@@ -1,0 +1,26 @@
+.icon{
+    font-size: 4rem;
+    color: #664de5;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0.6rem;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.description{
+ text-align: center;
+    color: #323136;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}

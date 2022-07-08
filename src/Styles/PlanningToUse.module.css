@@ -1,0 +1,40 @@
+.box{
+    max-width: 12rem;
+    padding: 0.8rem;
+    margin: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.activeCard{
+    border: 1px solid #664de5;
+}
+
+.nonActiveCard{
+    border: 1px solid white;
+}
+
+.box h5{
+    margin-top: 0.8rem;
+    margin-bottom: 0.6rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.activeIcon{
+    color: #664de5;
+    font-size: 1.2rem;
+}
+
+.nonActiveIcon{
+    color: #323136;
+    font-size: 1.2rem;
+}
