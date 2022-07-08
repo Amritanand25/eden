@@ -17,7 +17,7 @@ const MainContainer = () => {
     <div className={classes.container}>
       <div className={classes.box}>
         <div className={classes.logoContainer}>
-          <img src="/Images/assets/edenLogo.png" width="120px" height="60px" alt="logo"/>
+          <img src="/images/assets/edenLogo.png" width="120px" height="60px" alt="logo"/>
         </div>
 
         <div className={classes.progressContainer}>
